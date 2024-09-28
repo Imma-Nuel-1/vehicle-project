@@ -1,5 +1,6 @@
 
-Vehicle and Car TypeScript Project
+Vehicle and Car TypeScript Project.
+
 Project Overview
 This project demonstrates the use of TypeScript interfaces and classes. It defines a Vehicle interface and implements a Car class that adheres to this interface. The Car class includes properties such as make, model, and year, and a start method that outputs a message when invoked.
 
