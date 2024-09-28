@@ -1,5 +1,3 @@
-Memory updated
-Here’s a sample README.md file for your TypeScript project:
 
 Vehicle and Car TypeScript Project
 Project Overview
